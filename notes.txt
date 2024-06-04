@@ -1,5 +1,8 @@
-npm init
+npm init -y
 npm i express
 git init
 git add -A
-git 
+git remote -v
+git remote add origin https://github.com/divyanshu-dugar/playground.ai.git
+git branch -m master main
+git checkout master
