@@ -6,3 +6,7 @@ git remote -v
 git remote add origin https://github.com/divyanshu-dugar/playground.ai.git
 git branch -m master main
 git checkout master
+node --watch server.js
+
+Everything needs to by stringified in JSON
+LLM Models
