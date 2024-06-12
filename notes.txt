@@ -10,3 +10,11 @@ node --watch server.js
 
 Everything needs to by stringified in JSON
 LLM Models
+
+-- Frame Works
+1. Bootstrap - Cdn, just means, you know, choose the closest data warehouse.you know. Geolocation wise to download these assets. So this just downloads faster.
+Drawbacks - Limited and all them them looks kind of similar
+
+2. Tailwind CSS - We can generate our own CSS
+
+npm install -D tailwindcss
